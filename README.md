@@ -226,7 +226,7 @@ Todos os comandos acima também se aplica para o segundo model criado. A única 
 
 É de conhecimento geral que precisamos de rotas para chegarmos em diferentes lugares. E em um sistema de computador não é diferente, o express irá ajudar na criação dessas rotas.
 
-Utilizaremos o express.Route(); para conseguirmos realizar essas rotas.
+Utilizaremos o express.Router(); para conseguirmos realizar essas rotas.
 
 # Estrutura das rotas: 
 

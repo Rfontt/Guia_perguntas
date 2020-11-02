@@ -4,11 +4,11 @@ Será criado um sistema de perguntas e respostas, no qual o usuário consegue in
 
 # Imagens do Projeto:
 
-<img src="./imagensgithub/home.png" /> <br />
+<img src="./imagensgithub/home.png" alt="Tela home"/> 
 
-<img src="./imagensgithub/questions.png" /> <br />
+<img src="./imagensgithub/questions.png" alt="Tela de perguntas" /> 
 
-<img src="./imagensgithub/response.png" />
+<img src="./imagensgithub/response.png" alt="Tela de respostas/>
 
 
 # Objetivo: 

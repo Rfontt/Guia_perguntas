@@ -27,7 +27,7 @@ npm install express --save ou yarn add express --save
 
 npm install ejs --save ou yarn add ejs --save
 
-npm instal body-parser --save ou yarn add body-parser --save
+npm install body-parser --save ou yarn add body-parser --save
 
 npm install sequelize  --save ou yarn add sequelize  --save
 

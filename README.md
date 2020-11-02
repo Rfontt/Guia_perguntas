@@ -413,10 +413,10 @@ O if foi usado para verificar se o paramêntro que o usuário digita no endpoint
 Logo após isso há uma nova resposta guardada em outra variável:
 ```
 .then(responses => {
-			res.render("Questions/questionId", {
-			 questionId: question,
-				responses: responses
-			});
+	res.render("Questions/questionId", {
+             questionId: question,
+	     responses: responses
+	});
 })
 ```
 Esse é a resposta da busca anteriomente feita e se houver, realmente, uma resposta ele irá renderizar na tela.
@@ -447,7 +447,7 @@ const tableResponse = require('../database/models/response');
 
 **Nessa rota precisamos pegar o que o usuário digita no formulário, então é preciso informar a tag form que esses dados estão sendo capturados por essa rota /response.**
 
-Com isso feito faça essa estrutua: 
+Com isso feito faça essa estrutura: 
 
 
 ```

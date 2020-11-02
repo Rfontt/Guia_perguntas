@@ -1,0 +1,12 @@
+body {
+	background: #DCDCDC;
+}
+
+.fa-question-circle {
+	color: white;
+	font-size: 30px;
+}
+
+#form-questions {
+	margin-top: 5vh;
+}

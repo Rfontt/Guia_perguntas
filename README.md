@@ -34,7 +34,7 @@ npm install sequelize  --save ou yarn add sequelize  --save
 npm install mysql2 --save ou yarn add mysql2  --save
 
 ```
-# Iniciando o arquivo princial: 
+# Iniciando o arquivo principal: 
 
 **Vamos a prática!**
 

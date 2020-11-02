@@ -8,7 +8,7 @@ Será criado um sistema de perguntas e respostas, no qual o usuário consegue in
 
 <img src="./imagensgithub/questions.png" alt="Tela de perguntas" /> 
 
-<img src="./imagensgithub/response.png" alt="Tela de respostas/>
+<img src="./imagensgithub/response.png" alt="Tela de respostas" />
 
 
 # Objetivo: 

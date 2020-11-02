@@ -495,7 +495,7 @@ Esse código é equivalente a:
 INSERT INTO Responses(body, questionId) VALUES ('Corpo da resposta', '3');
 
 ```
-Estamos apenas pegando o valor que o usuário digitou e repassando para a campo body e questionId da tabela Responses. Com isso feito direcionamos o usuário a página da resposta feito juntamente com a sua resposta exposta lá.
+Estamos apenas pegando o valor que o usuário digitou e repassando para a campo body e questionId da tabela Responses. Com isso feito direcionamos o usuário a página da resposta feita juntamente com a sua resposta exposta lá.
 <br />
 **Observe que o endpoit muda:**
 ```
@@ -508,7 +508,7 @@ Isso faz com que na url apareça o id da resposta relacionada a pergunta.
 
 # Rota de salvar as pergutas:
 
-Está é semelhante a anteriomente feita. Ela usa o metódo post e também salvar algo numa tabela do banco de dados. Só que nessa será usada apenas a tabela Questions.
+Esta é semelhante a anteriomente feita. Ela usa o metódo post e também salvar algo numa tabela do banco de dados. Só que nessa será usada apenas a tabela Questions.
 
 Primeiro importe uma instância da tabela armazenada em uma variável para usar os campos que há nela:
 ```

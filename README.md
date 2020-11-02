@@ -495,7 +495,7 @@ Esse código é equivalente a:
 INSERT INTO Responses(body, questionId) VALUES ('Corpo da resposta', '3');
 
 ```
-Estamos apenas pegando o valor que o usuário digitou e repassando para a campo boy e questionId da tabela Responses. Com isso feito direcionamos o usuário a página da resposta feito juntamente com a sua resposta exposta lá.
+Estamos apenas pegando o valor que o usuário digitou e repassando para a campo body e questionId da tabela Responses. Com isso feito direcionamos o usuário a página da resposta feito juntamente com a sua resposta exposta lá.
 <br />
 **Observe que o endpoit muda:**
 ```
